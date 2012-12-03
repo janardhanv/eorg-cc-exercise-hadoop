@@ -7,7 +7,7 @@ Instructions
 ------------
 
 1. Download the project (as ZIP-file or via git) and import into Eclipse.
-2. Complete TODOs in the code to add the requested functionality. 
+2. Complete TODOs in the code to add the requested functionality. \n
   2a. For WordCountYahoo count words in yahoo.txt file with a Y at the beginning. 
   2b. For WordCountDarwin count words in darwin.txt file that include "evolution".
 3. Compile & Export the project as executable jar with main class
