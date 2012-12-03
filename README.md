@@ -30,4 +30,4 @@ Instructions
 
 8. Results will be in the output dir on S3 you provided as an argument to the jar in the Job Flow.
 
-Notice: Output-dir must be different for every Job Flow execution since MapReduce cannot overwrite files.
+Note: Output dir must be different for every Job Flow execution since MapReduce cannot overwrite files.
