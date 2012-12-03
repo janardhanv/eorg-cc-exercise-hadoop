@@ -10,7 +10,7 @@ Instructions
 
 2. Complete TODOs in the code to add the requested functionality.
 
-  2a. For WordCountYahoo count words in yahoo.txt file with a Y at the beginning. 
+  2a. For WordCountYahoo count words in yahoo.txt file with "Y" at the beginning. 
 
   2b.For WordCountDarwin count words in darwin.txt file that include "evolution".
 
