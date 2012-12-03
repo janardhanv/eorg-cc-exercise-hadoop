@@ -24,7 +24,7 @@ Instructions
 
 5. Create a new Job Flow on AWS Elastic MapReduce with type "Custom JAR".
 
-6. Set jar file "s3n://<bucketname>/<executable-jar-file>" and arguments to "s3n://<bucketname>/<.txt-file> s3n://<bucketname>/<output-dir>".
+6. Set jar file "s3n://\<bucketname\>/\<executable-jar-file\>" and arguments to "s3n://\<bucketname\>/\<.txt-file\> s3n://\<bucketname\>/\<output-dir\>".
 
 7. Run Job Flow (1 small instance is sufficient).
 
