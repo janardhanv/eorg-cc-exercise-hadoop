@@ -6,11 +6,11 @@ Exercise on Hadoop and Elastic MapReduce
 Instructions
 ------------
 
-1. Download the project (as ZIP-file or via git) and import into Eclipse.
-2. Complete TODOs in the code to add the requested functionality. \n
-  2a. For WordCountYahoo count words in yahoo.txt file with a Y at the beginning. 
-  2b. For WordCountDarwin count words in darwin.txt file that include "evolution".
-3. Compile & Export the project as executable jar with main class
+# Download the project (as ZIP-file or via git) and import into Eclipse.
+# Complete TODOs in the code to add the requested functionality. \n
+## For WordCountYahoo count words in yahoo.txt file with a Y at the beginning. 
+## For WordCountDarwin count words in darwin.txt file that include "evolution".
+# Compile & Export the project as executable jar with main class
   3a. de.eorg.cloudcomputing.exercises.hadoop.WordCountYahoo
   3b. de.eorg.cloudcomputing.exercises.hadoop.WordCountDarwin
 4. Upload executable jar and *.txt files (yahoo.txt, darwin.txt) to a s3 bucket.
