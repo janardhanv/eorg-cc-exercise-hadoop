@@ -22,7 +22,7 @@ Instructions
 
 4. Upload executable jar and *.txt files (yahoo.txt, darwin.txt) to a S3 bucket.
 
-5. Create a new Job Flow on AWS Elastic MapReduce with type "Custom JAR".
+5. Create a new Job Flow on AWS Elastic MapReduce (via AWS Management Console) with type "Custom JAR".
 
 6. Set jar file "s3n://\<bucketname\>/\<executable-jar-file\>" and arguments to "s3n://\<bucketname\>/\<.txt-file\> s3n://\<bucketname\>/\<output-dir\>".
 
