@@ -20,7 +20,7 @@ Instructions
   
   3b. de.eorg.cloudcomputing.exercises.hadoop.WordCountDarwin
 
-4. Upload executable jar and *.txt files (yahoo.txt, darwin.txt) to a s3 bucket.
+4. Upload executable jar and *.txt files (yahoo.txt, darwin.txt) to a S3 bucket.
 
 5. Create a new Job Flow on AWS Elastic MapReduce with type "Custom JAR".
 
