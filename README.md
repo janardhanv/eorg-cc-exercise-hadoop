@@ -6,7 +6,7 @@ Exercise on Hadoop and Elastic MapReduce
 Instructions
 ------------
 
-1. Download the project (as ZIP-file or via git) and import into Eclipse.
+1. Download the project (as ZIP-file, https://github.com/mugglmenzel/eorg-cc-exercise-hadoop/raw/master/eorg-cc-exercise-hadoop.zip, or via git) and import into Eclipse.
 
 2. Complete TODOs in the code to add the requested functionality.
 
